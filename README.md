@@ -1,6 +1,5 @@
 # aprende-javascript
-# Ejercicios de JavaScript para hispanohablantes 
-🇲🇽🇨🇴🇦🇷🇨🇱🇵🇪
+# Ejercicios de JavaScript a la comunidad 🇲🇽🇨🇴🇦🇷🇨🇱🇵🇪
 
 Bienvenido a este repositorio donde estoy recopilando ejercicios prácticos de **JavaScript moderno**, con explicaciones claras y en español.
 
