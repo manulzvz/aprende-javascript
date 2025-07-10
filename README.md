@@ -59,3 +59,5 @@ Puedes crear un Pull Request o escribirme por [LinkedIn](https://www.linkedin.co
 Este es un proyecto que irá creciendo a medida que avance en mi aprendizaje y experiencia profesional.  
 ¡Gracias por ser parte del camino!
 
+Hecho con ❤️ por la comunidad LATAM
+MIT LICENSE
