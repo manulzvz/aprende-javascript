@@ -37,15 +37,33 @@ Actualmente el repositorio incluye ejercicios prácticos sobre diferentes concep
 
 ## 📂 Tabla de Contenidos
 
-### ▶️ Consumo de APIs con Fetch
-- [`consumo-apis/ejercicio-1.js`](./consumo-apis/ejercicio-1.js) — Realiza una solicitud GET a una API pública usando `fetch`.
+###  Promesas Basicas
+#### Promesa simple con setTimeout()
+- [`promesas-basicas/ejercicio1.js`](./asincronia/promesas-basicas/ejercicio-1.js) — Crea una promesa simple usando `setTimeout` para simular una tarea asíncrona.
 
-### ▶️ Algoritmos
-#### 🔢 Secuencia de Fibonacci
-- [`algoritmos/secuenciaFibonacci/ejercicio-1.js`](./algoritmos/secuenciaFibonacci/ejercicio-1.js) — Implementa la secuencia de Fibonacci con una función iterativa y una recursiva.
+#### Promesa con rechazo
+- [`promesas-basicas/ejercicio2.js`](./asincronia/promesas-basicas/ejercicio-2.js) — Promesa que puede resolverse o rechazarse, con manejo de éxito y error.
 
-#### 🔀 Merge Sort
-- [`algoritmos/mergeSort/ejercicio-1.js`](./algoritmos/mergeSort/ejercicio-1.js) — Ordena un arreglo de números utilizando el algoritmo Merge Sort.
+###  Async/Await
+#### Rescribir funcion con async/await
+- [`async-await/ejercicio1.js`](./asincronia/async-await/ejercicio-1.js) — Reescribe una función que usa promesas para que use `async` y `await`.
+
+#### Varias tareas asincronas
+- [`async-await/ejercicio2.js`](./asincronia/async-await/ejercicio-2.js) — Ejecuta varias tareas asíncronas en secuencia usando `await`.
+
+###  Consumo de APIs con Fetch
+- [`api-fetch/ejercicio1.js`](./asincronia/api-fetch/ejercicio-1.js) — Realiza una solicitud GET a una API pública usando `fetch`.
+
+
+###  Consumo de APIs con Fetch
+- [`api-fetch/ejercicio1.js`](./asincronia/api-fetch/ejercicio-1.js) — Realiza una solicitud GET a una API pública usando `fetch`.
+
+###  Algoritmos
+####  Secuencia de Fibonacci
+- [`algoritmos/secuenciaFibonacci/ejercicio-1.js`](./algoritmos/recursividad/secuenciaFibonacci/ejercicio-1.js) — Implementa la secuencia de Fibonacci con una función iterativa y una recursiva.
+
+#### Merge Sort
+- [`algoritmos/mergeSort/ejercicio-1.js`](./algoritmos/recursividad/mergeSort/ejercicio-1.js) — Ordena un arreglo de números utilizando el algoritmo Merge Sort.
 
 🔜 Próximamente: ejercicios sobre manipulación del DOM y almacenamiento local.
 
@@ -70,5 +88,5 @@ Puedes crear un Pull Request o escribirme por [LinkedIn](https://www.linkedin.co
 Este es un proyecto que irá creciendo a medida que avance en mi aprendizaje y experiencia profesional.  
 ¡Gracias por ser parte del camino!
 
-Hecho con ❤️ por la comunidad LATAM
+Hecho con ❤️ por y para la comunidad LATAM
 MIT LICENSE
