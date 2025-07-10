@@ -33,10 +33,21 @@ La idea es crear un espacio abierto para que más personas que están aprendiend
 
 ## 🚀 Ejercicios disponibles
 
-- ✔️ Ejercicios básicos de Promesas
-- ✔️ Async/Await con control de errores
-- ✔️ Consumo de APIs con fetch()
-- 🔜 Más ejercicios sobre manipulación del DOM y almacenamiento local
+Actualmente el repositorio incluye ejercicios prácticos sobre diferentes conceptos clave:
+
+## 📂 Tabla de Contenidos
+
+### ▶️ Consumo de APIs con Fetch
+- [`consumo-apis/ejercicio-1.js`](./consumo-apis/ejercicio-1.js) — Realiza una solicitud GET a una API pública usando `fetch`.
+
+### ▶️ Algoritmos
+#### 🔢 Secuencia de Fibonacci
+- [`algoritmos/secuenciaFibonacci/ejercicio-1.js`](./algoritmos/secuenciaFibonacci/ejercicio-1.js) — Implementa la secuencia de Fibonacci con una función iterativa y una recursiva.
+
+#### 🔀 Merge Sort
+- [`algoritmos/mergeSort/ejercicio-1.js`](./algoritmos/mergeSort/ejercicio-1.js) — Ordena un arreglo de números utilizando el algoritmo Merge Sort.
+
+🔜 Próximamente: ejercicios sobre manipulación del DOM y almacenamiento local.
 
 ---
 
