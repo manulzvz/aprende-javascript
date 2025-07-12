@@ -72,14 +72,14 @@ Actualmente el repositorio incluye ejercicios prácticos sobre diferentes concep
 ## 🤝 Cómo contribuir
 
 ¿Quieres sumar ejercicios o correcciones? ¡Adelante!  
-Puedes crear un Pull Request o escribirme por [LinkedIn](https://www.linkedin.com/in/manulzvz13/) para mejorar este proyecto.
+Puedes crear un Pull Request o escribirme por [LinkedIn](https://www.linkedin.com/in/manulzvz/) para mejorar este proyecto.
 
 ---
 
 ## 📫 ¿Dónde más puedes seguirme?
 
-- LinkedIn: [https://www.linkedin.com/in/manulzvz13/](https://www.linkedin.com/in/manulzvz13/)
-- GitHub: [https://github.com/manulzvz13](https://github.com/manulzvz13)
+- LinkedIn: [https://www.linkedin.com/in/manulzvz13/](https://www.linkedin.com/in/manulzvz/)
+- GitHub: [https://github.com/manulzvz13](https://github.com/manulzvz)
 
 ---
 
