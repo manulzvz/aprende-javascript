@@ -65,6 +65,10 @@ Actualmente el repositorio incluye ejercicios prácticos sobre diferentes concep
 #### Merge Sort
 - [`algoritmos/mergeSort/ejercicio-1.js`](./algoritmos/recursividad/mergeSort/ejercicio-1.js) — Ordena un arreglo de números utilizando el algoritmo Merge Sort.
 
+###  Estructuras de datos
+####  Linked Lists
+- [`estructurasDeDatos/linkedLists/main.js`](./estructurasDeDatos/linkedLists/main.js) — Implementa un singly link linked lists con varios metodos en Javascript.
+
 🔜 Próximamente: ejercicios sobre manipulación del DOM y almacenamiento local.
 
 ---
