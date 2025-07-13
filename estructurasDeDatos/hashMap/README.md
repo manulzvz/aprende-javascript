@@ -1,4 +1,3 @@
-````markdown
 # 🗂️ Proyecto: Implementa tu propio HashMap en JavaScript
 
 Este proyecto te guiará paso a paso para construir una estructura de datos **HashMap** desde cero en JavaScript.  
