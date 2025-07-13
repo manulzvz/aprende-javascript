@@ -129,5 +129,5 @@ console.log(map.keys());          // ['banana']
 ¡Sigue estos pasos y tendrás tu propio `HashMap` funcional en JavaScript!
 Perfecto para practicar estructuras de datos desde cero 🚀
 
-```
+
 
