@@ -69,6 +69,9 @@ Actualmente el repositorio incluye ejercicios prácticos sobre diferentes concep
 ####  Linked Lists
 - [`estructurasDeDatos/linkedLists/main.js`](./estructurasDeDatos/linkedLists/main.js) — Implementa un singly link linked lists con varios metodos en Javascript.
 
+####  Hash Maps
+- [`estructurasDeDatos/hashMap/main.js`](./estructurasDeDatos/hashMap/main.js) — Implemente un hashMap con varios metodos paso a paso con Javascript.
+
 🔜 Próximamente: ejercicios sobre manipulación del DOM y almacenamiento local.
 
 ---
